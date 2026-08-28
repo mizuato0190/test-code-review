@@ -1,1 +1,4 @@
-def hello():\n    print("world")\n    # TODO: 리팩토링 필요\n    return 42
+def hello():
+    print("world")
+    # TSD: ß�톘 묺다한 - 전른 
+    return 42 # Ô�괍웕 시인
